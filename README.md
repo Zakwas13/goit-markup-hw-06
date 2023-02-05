@@ -1,1 +1,1 @@
-https://zakwas13.github.io/goit-markup-hw-05/
+https://zakwas13.github.io/goit-markup-hw-06/
